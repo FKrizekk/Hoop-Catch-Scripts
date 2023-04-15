@@ -1,5 +1,5 @@
 # Hoop-Catch-Scripts
- Scripts for my very simple mobile game, that i made for my school presentation
+ Scripts for my very simple mobile game, that i made for my school presentation.
 
 [Itch.io](https://fkrizekk.itch.io/hoop-catch)
 
